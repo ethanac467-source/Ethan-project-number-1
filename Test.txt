@@ -1,0 +1,5 @@
+Here are some notes. Thing to do:
+- comment all the code
+- make the intake stronger 
+- merge branches
+
